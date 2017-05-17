@@ -28,13 +28,13 @@ BMP圖片使用DES加解密
 沒有最佳化加解密時間，執行速度很慢 
 
 ##  附加說明
-*   **des.py**: &nbsp;DES加解密方法
+*   [**des.py**](https://github.com/lindawan/B10315031_HW2/blob/master/des.py): &nbsp;DES加解密方法
   
-*   **testDesBmp.py**:  &nbsp;測試BMP圖檔使用DES
+*   [**testDesBmp.py**](https://github.com/lindawan/B10315031_HW2/blob/master/testDesBmp.py):  &nbsp;測試BMP圖檔使用DES
 
-*   **test.bmp**:&nbsp;原始圖檔
+*   [**test.bmp**](https://github.com/lindawan/B10315031_HW2/blob/master/test.bmp):&nbsp;原始圖檔
 
-*   輸出圖檔檔名命名方式：   
+*   [輸出圖檔](https://github.com/lindawan/B10315031_HW2/blob/master/outImage)檔名命名方式：   
     **mode**:&nbsp;&nbsp;block cipher加解密模式   
     1.  RGB 分別加密：   **mode_sep_encrypt.bmp** 
     2.  RGB 連續加密：   **mode_con_encrypt.bmp**
