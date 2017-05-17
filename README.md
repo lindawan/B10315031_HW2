@@ -1,11 +1,11 @@
-#B10315031_HW2
+#   B10315031_HW2
 BMP圖片使用DES加解密  
 
-##建置環境
+##  建置環境
 **OS:** &nbsp;macOS 10.12.4   
 **Programming Language:** &nbsp;Python 2.7.13
 
-##完成功能
+##  完成功能
 1.  加解密模式：  
     *   ECB
     *   CBC
@@ -18,7 +18,7 @@ BMP圖片使用DES加解密
 
 3.  各種模式執行時間
 
-##執行結果
+##  執行結果  
 **執行指令：**   
 ```python testDesBmp.py```  
 
@@ -27,7 +27,7 @@ BMP圖片使用DES加解密
 
 沒有最佳化加解密時間，執行速度很慢 
 
-##附加說明
+##  附加說明
 *   **des.py**: &nbsp;DES加解密方法
   
 *   **testDesBmp.py**:  &nbsp;測試BMP圖檔使用DES
